@@ -1,1 +1,1 @@
-# ODSRF
+# Simulation code of paper " Optimized Dynamic Stochastic Resonance framework for enhancement of structural details of satellite images",Remote Sensing Applications: Society and Environment, 2020  is comming soon
